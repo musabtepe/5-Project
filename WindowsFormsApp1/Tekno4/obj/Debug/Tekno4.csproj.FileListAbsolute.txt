@@ -1,0 +1,14 @@
+C:\Users\brkyz\OneDrive\Masaüstü\repos1\WindowsFormsApp1\Tekno4\bin\Debug\Tekno4.exe.config
+C:\Users\brkyz\OneDrive\Masaüstü\repos1\WindowsFormsApp1\Tekno4\bin\Debug\Tekno4.exe
+C:\Users\brkyz\OneDrive\Masaüstü\repos1\WindowsFormsApp1\Tekno4\bin\Debug\Tekno4.pdb
+C:\Users\brkyz\OneDrive\Masaüstü\repos1\WindowsFormsApp1\Tekno4\obj\Debug\Tekno4.csproj.AssemblyReference.cache
+C:\Users\brkyz\OneDrive\Masaüstü\repos1\WindowsFormsApp1\Tekno4\obj\Debug\Tekno4.csproj.SuggestedBindingRedirects.cache
+C:\Users\brkyz\OneDrive\Masaüstü\repos1\WindowsFormsApp1\Tekno4\obj\Debug\Tekno4.Form1.resources
+C:\Users\brkyz\OneDrive\Masaüstü\repos1\WindowsFormsApp1\Tekno4\obj\Debug\Tekno4.Properties.Resources.resources
+C:\Users\brkyz\OneDrive\Masaüstü\repos1\WindowsFormsApp1\Tekno4\obj\Debug\Tekno4.csproj.GenerateResource.cache
+C:\Users\brkyz\OneDrive\Masaüstü\repos1\WindowsFormsApp1\Tekno4\obj\Debug\Tekno4.csproj.CoreCompileInputs.cache
+C:\Users\brkyz\OneDrive\Masaüstü\repos1\WindowsFormsApp1\Tekno4\obj\Debug\Tekno4.exe
+C:\Users\brkyz\OneDrive\Masaüstü\repos1\WindowsFormsApp1\Tekno4\obj\Debug\Tekno4.pdb
+C:\Users\brkyz\OneDrive\Masaüstü\repos1\WindowsFormsApp1\Tekno4\bin\Debug\MaxMind.Db.dll
+C:\Users\brkyz\OneDrive\Masaüstü\repos1\WindowsFormsApp1\Tekno4\bin\Debug\MaxMind.Db.xml
+C:\Users\brkyz\OneDrive\Masaüstü\repos1\WindowsFormsApp1\Tekno4\obj\Debug\Tekno4.csproj.CopyComplete

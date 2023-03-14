@@ -1,0 +1,11 @@
+C:\Users\brkyz\OneDrive\Masaüstü\repos1\WindowsFormsApp1\Tekno2\obj\Debug\Tekno2.csproj.AssemblyReference.cache
+C:\Users\brkyz\OneDrive\Masaüstü\repos1\WindowsFormsApp1\Tekno2\obj\Debug\Tekno2.csproj.SuggestedBindingRedirects.cache
+C:\Users\brkyz\OneDrive\Masaüstü\repos1\WindowsFormsApp1\Tekno2\obj\Debug\Tekno2.Properties.Resources.resources
+C:\Users\brkyz\OneDrive\Masaüstü\repos1\WindowsFormsApp1\Tekno2\obj\Debug\Tekno2.csproj.GenerateResource.cache
+C:\Users\brkyz\OneDrive\Masaüstü\repos1\WindowsFormsApp1\Tekno2\obj\Debug\Tekno2.csproj.CoreCompileInputs.cache
+C:\Users\brkyz\OneDrive\Masaüstü\repos1\WindowsFormsApp1\Tekno2\bin\Debug\Tekno2.exe.config
+C:\Users\brkyz\OneDrive\Masaüstü\repos1\WindowsFormsApp1\Tekno2\bin\Debug\Tekno2.exe
+C:\Users\brkyz\OneDrive\Masaüstü\repos1\WindowsFormsApp1\Tekno2\bin\Debug\Tekno2.pdb
+C:\Users\brkyz\OneDrive\Masaüstü\repos1\WindowsFormsApp1\Tekno2\obj\Debug\Tekno2.exe
+C:\Users\brkyz\OneDrive\Masaüstü\repos1\WindowsFormsApp1\Tekno2\obj\Debug\Tekno2.pdb
+C:\Users\brkyz\OneDrive\Masaüstü\repos1\WindowsFormsApp1\Tekno2\obj\Debug\Tekno2.Form2.resources

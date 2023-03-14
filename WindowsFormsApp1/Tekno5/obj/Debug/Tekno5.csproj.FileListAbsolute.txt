@@ -1,0 +1,11 @@
+C:\Users\brkyz\OneDrive\Masaüstü\repos1\WindowsFormsApp1\Tekno5\bin\Debug\Tekno5.exe.config
+C:\Users\brkyz\OneDrive\Masaüstü\repos1\WindowsFormsApp1\Tekno5\bin\Debug\Tekno5.exe
+C:\Users\brkyz\OneDrive\Masaüstü\repos1\WindowsFormsApp1\Tekno5\bin\Debug\Tekno5.pdb
+C:\Users\brkyz\OneDrive\Masaüstü\repos1\WindowsFormsApp1\Tekno5\obj\Debug\Tekno5.csproj.AssemblyReference.cache
+C:\Users\brkyz\OneDrive\Masaüstü\repos1\WindowsFormsApp1\Tekno5\obj\Debug\Tekno5.csproj.SuggestedBindingRedirects.cache
+C:\Users\brkyz\OneDrive\Masaüstü\repos1\WindowsFormsApp1\Tekno5\obj\Debug\Tekno5.Form1.resources
+C:\Users\brkyz\OneDrive\Masaüstü\repos1\WindowsFormsApp1\Tekno5\obj\Debug\Tekno5.Properties.Resources.resources
+C:\Users\brkyz\OneDrive\Masaüstü\repos1\WindowsFormsApp1\Tekno5\obj\Debug\Tekno5.csproj.GenerateResource.cache
+C:\Users\brkyz\OneDrive\Masaüstü\repos1\WindowsFormsApp1\Tekno5\obj\Debug\Tekno5.csproj.CoreCompileInputs.cache
+C:\Users\brkyz\OneDrive\Masaüstü\repos1\WindowsFormsApp1\Tekno5\obj\Debug\Tekno5.exe
+C:\Users\brkyz\OneDrive\Masaüstü\repos1\WindowsFormsApp1\Tekno5\obj\Debug\Tekno5.pdb
